@@ -1,4 +1,4 @@
-{"usersEmails" : [
+{"leaderBoardUsersEmails" : [
   "ahamse@altimetrik.com",
   "ksahebrao@altimetrik.com",
   "bbhanu@altimetrik.com", 
@@ -8,4 +8,16 @@
   "sishanmugam@altimetrik.com",
   "nallamuthu.selvam@altimetrik.com",
   "kjangir@altimetrik.com",
-  "aabhatnagar@altimetrik.com"]}
+  "aabhatnagar@altimetrik.com"],
+"bartleAccessUsersEmails":[
+   "ahamse@altimetrik.com",
+  "ksahebrao@altimetrik.com",
+  "bbhanu@altimetrik.com", 
+  "sjaswini@altimetrik.com",
+  "mmanikandan@altimetrik.com",
+  "mprajapati@altimetrik.com",
+  "sishanmugam@altimetrik.com",
+  "nallamuthu.selvam@altimetrik.com",
+  "kjangir@altimetrik.com",
+  "aabhatnagar@altimetrik.com"]
+}
